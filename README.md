@@ -7,7 +7,7 @@ $$
 &x(0) = y(0) = 0 \\
 &\dot{x}(0) = v_0 \cos\theta = U \\
 &\dot{y}(0) = v_0 \sin\theta = V 
-\end{aligned} \\[10pt]
+\end{aligned} \\
 \end{align*} \\$$
 
 ## Equations

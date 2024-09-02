@@ -16,8 +16,8 @@ $$
 & \begin{aligned}
 &\dot{x}(t) = U e^{-bt} \\
 &x(t) = \frac{U}{b}(1 - e^{-bt}) \\ \\
-& \dot{y}(t) = \frac{bV+g}{b}\,e^{-bt}-\frac{g}{b} \\
-& y(t) = \frac{bV + g}{b^2}\,(1-e^{-bt})-\frac{g}{b}t
+& \dot{y}(t) = \frac{bV+g}{b}e^{-bt}-\frac{g}{b} \\
+& y(t) = \frac{bV + g}{b^2}(1-e^{-bt})-\frac{g}{b}t
 \end{aligned}
 \end{align*}
 $$
@@ -26,7 +26,7 @@ $$
 $$
 \begin{align*}
 & \begin{aligned}
-& T = \frac{2V}{g}+(\frac{1}{3}T^2-\frac{2V^2}{g^2})\,b \\
+& T = \frac{2V}{g}+(\frac{1}{3}T^2-\frac{2V^2}{g^2})b \\
 & R = U(T-\frac{1}{2}bT^2)
 \end{aligned}
 \end{align*}
